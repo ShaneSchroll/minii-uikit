@@ -2,6 +2,7 @@
     Author: Shane Schroll
     Author URI: https://shaneschroll.dev
     Description: Styles for Minii components.
+    Documentation: https://shaneschroll.dev/mockups/help-docs
     Version: 0.0.1
 */
 

@@ -1,11 +1,12 @@
 // Fonts
-$primary-font: 'Poppins', sans-serif; // weights (+i): 300, 500, 700
-$secondary-font: 'Raleway', sans-serif; // weights: 400, 600
+$poppins: 'Poppins', sans-serif; // weights (+i): 300, 500, 700
+$raleway: 'Raleway', sans-serif; // weights: 400, 600
 
 // Font Weights
 $light: 300;
-$regular: 500;
-$medium: 600;
+$regular: 400;
+$medium: 500;
+$semibold: 600;
 $heavy: 700;
 
 // Radius Sizes
@@ -13,3 +14,8 @@ $radius-small: 5px;
 $radius-medium: 10px;
 $radius-large: 20px;
 $circle: 50%;
+
+// Colors
+$white: #fff;
+$black: #000;
+$charcoal: #3e3e3e;

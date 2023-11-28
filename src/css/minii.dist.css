@@ -2,5 +2,6 @@
     Author: Shane Schroll
     Author URI: https://shaneschroll.dev
     Description: Styles for Minii components.
+    Documentation: https://shaneschroll.dev/mockups/help-docs
     Version: 0.0.1
-*/@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,500;0,700;1,300&family=Raleway:ital,wght@0,400;0,600;1,400&display=swap");#minii-component{box-sizing:border-box;text-rendering:geometricPrecision;font-variant-numeric:lining-nums;font-feature-settings:"lnum" 1;line-height:1.6}
+*/#minii-component{box-sizing:border-box;text-rendering:geometricPrecision;font-variant-numeric:lining-nums;font-feature-settings:"lnum" 1;line-height:1.65}.component-test-area{max-width:1200px;margin:2rem auto;padding:1rem}
